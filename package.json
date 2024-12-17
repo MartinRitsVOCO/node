@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "mariadb": "^3.4.0"
+    "mariadb": "^3.4.0",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.0"
   }
 }
