@@ -1,0 +1,16 @@
+{
+  "name": "voco-node",
+  "version": "1.0.0",
+  "description": "Node.js õpe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Martin Ritsberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mariadb": "^3.4.0"
+  }
+}
